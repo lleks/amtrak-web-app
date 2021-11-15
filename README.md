@@ -16,6 +16,6 @@ With Amtrak web app you can:
 
 * There is some Amtrak Store with Product Pages, Category Pages, Checkout flows up
 
-And of course there is a lot of bugs inside hiding.
+And of course there is a lot of bugs inside hiding
 
 And it's a Prod!🙃
